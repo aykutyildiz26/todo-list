@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+}
+input{
+    text-transform: capitalize;
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 10px 0;
+    background: rgba(128, 167, 240, 0.253);
+    text-align: left;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: grey;
+}
